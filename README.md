@@ -51,7 +51,7 @@ LRUCACHEPROJECT/
 
 ---
 
-## 💻 Sample Execution
+ ## 💻 Sample Execution
 ```bash
 Input:
 Put(1, 10)
